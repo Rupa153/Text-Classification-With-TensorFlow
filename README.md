@@ -1,1 +1,1 @@
-This project explores text classification using TensorFlow with a focus on sentiment analysis. We aim to predict whether movie reviews express positive or negative sentiments by leveraging the IMDb dataset. Through preprocessing, tokenization, and mpUeJjng with TensorFlow, we illustrate how machine learning can and categorize textual data, providing insights into the effectiveness of various neural network architectures in sentiment analysis tasks.
+
