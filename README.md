@@ -1,6 +1,1 @@
-# Text-Classification-With-TensorFlow
-The specific goals include:
-1. Preprocessing and preparing text data for model training.
-2. Building a Sequential model with embedding and LSTM layers for 
-sentiment analysis.
-3. Training the model on the IMDB dataset and evaluating its performance
+This project explores text classification using TensorFlow with a focus on sentiment analysis. We aim to predict whether movie reviews express positive or negative sentiments by leveraging the IMDb dataset. Through preprocessing, tokenization, and mpUeJjng with TensorFlow, we illustrate how machine learning can and categorize textual data, providing insights into the effectiveness of various neural network architectures in sentiment analysis tasks.
